@@ -11,10 +11,10 @@ firebase.initializeApp({
   });
 
 const client = new Twitter({
-  consumer_key: 'FKKyUUQ2bqGK5LQSdj5uQCEYr',
-  consumer_secret: 'VDHFImZX8wBu71hU59nS9KZhlgLdCVsyDYPjGlSE13SBQkueEH',
-  access_token_key: '555006882-0v9vIhecpwf1moV2Uffv8lUB1VxumyRgKExnvtRv',
-  access_token_secret: 'cRo4PwaKReuJDYug9wfr8NqV6h3J6IUWCmhBfhOQaVy4U'
+  consumer_key: '',
+  consumer_secret: '',
+  access_token_key: '',
+  access_token_secret: ''
 });
 
 const port = '4000'
